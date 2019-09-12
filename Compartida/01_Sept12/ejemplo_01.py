@@ -15,3 +15,5 @@ print('hola'," buenos días")
 import numpy as np  # se importa el paquete para poder utilizarlo mediante un alias (np, yo me lo invento)
 
 print('El valor de la cte llamada FPE_UNDERFLOW es:',np.FPE_UNDERFLOW)
+
+print('otras cosas')
